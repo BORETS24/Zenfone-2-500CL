@@ -1,0 +1,17 @@
+out/target/product/generic_x86/obj/SHARED_LIBRARIES/libcrypto_intermediates/crypto/bf/bf_ecb.o: \
+  external/openssl/crypto/bf/bf_ecb.c \
+  build/core/combo/include/arch/target_linux-x86/AndroidConfig.h \
+  external/openssl/include/openssl/blowfish.h \
+  external/openssl/include/openssl/e_os2.h \
+  external/openssl/include/openssl/opensslconf.h \
+  external/openssl/include/openssl/opensslconf-32.h \
+  external/openssl/crypto/bf/bf_locl.h \
+  external/openssl/include/openssl/opensslv.h
+  external/openssl/crypto/bf/bf_ecb.c :
+  build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :
+  external/openssl/include/openssl/blowfish.h :
+  external/openssl/include/openssl/e_os2.h :
+  external/openssl/include/openssl/opensslconf.h :
+  external/openssl/include/openssl/opensslconf-32.h :
+  external/openssl/crypto/bf/bf_locl.h :
+  external/openssl/include/openssl/opensslv.h :

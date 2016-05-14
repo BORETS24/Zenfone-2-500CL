@@ -1,0 +1,11 @@
+out/host/linux-x86/obj32/SHARED_LIBRARIES/libcrypto-host_intermediates/crypto/ebcdic.o: \
+ external/openssl/crypto/ebcdic.c \
+ build/core/combo/include/arch/linux-x86/AndroidConfig.h \
+ external/openssl/include/openssl/e_os2.h \
+ external/openssl/include/openssl/opensslconf.h \
+ external/openssl/include/openssl/opensslconf-32.h
+ external/openssl/crypto/ebcdic.c :
+ build/core/combo/include/arch/linux-x86/AndroidConfig.h :
+ external/openssl/include/openssl/e_os2.h :
+ external/openssl/include/openssl/opensslconf.h :
+ external/openssl/include/openssl/opensslconf-32.h :

@@ -1,0 +1,11 @@
+out/target/product/generic_x86/obj/SHARED_LIBRARIES/libcrypto_intermediates/crypto/ebcdic.o: \
+  external/openssl/crypto/ebcdic.c \
+  build/core/combo/include/arch/target_linux-x86/AndroidConfig.h \
+  external/openssl/include/openssl/e_os2.h \
+  external/openssl/include/openssl/opensslconf.h \
+  external/openssl/include/openssl/opensslconf-32.h
+  external/openssl/crypto/ebcdic.c :
+  build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :
+  external/openssl/include/openssl/e_os2.h :
+  external/openssl/include/openssl/opensslconf.h :
+  external/openssl/include/openssl/opensslconf-32.h :

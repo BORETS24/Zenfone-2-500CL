@@ -1,0 +1,5 @@
+out/host/linux-x86/obj32/SHARED_LIBRARIES/libcrypto-host_intermediates/crypto/md5/asm/md5-586.o: \
+ external/openssl/crypto/md5/asm/md5-586.S \
+ build/core/combo/include/arch/linux-x86/AndroidConfig.h
+ external/openssl/crypto/md5/asm/md5-586.S :
+ build/core/combo/include/arch/linux-x86/AndroidConfig.h :

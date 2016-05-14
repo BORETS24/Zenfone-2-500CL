@@ -1,0 +1,15 @@
+out/host/linux-x86/obj32/SHARED_LIBRARIES/libcrypto-host_intermediates/crypto/aes/aes_ofb.o: \
+ external/openssl/crypto/aes/aes_ofb.c \
+ build/core/combo/include/arch/linux-x86/AndroidConfig.h \
+ external/openssl/include/openssl/aes.h \
+ external/openssl/include/openssl/opensslconf.h \
+ external/openssl/include/openssl/opensslconf-32.h \
+ prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6/bin/../lib/gcc/x86_64-linux/4.6/include/stddef.h \
+ external/openssl/include/openssl/modes.h
+ external/openssl/crypto/aes/aes_ofb.c :
+ build/core/combo/include/arch/linux-x86/AndroidConfig.h :
+ external/openssl/include/openssl/aes.h :
+ external/openssl/include/openssl/opensslconf.h :
+ external/openssl/include/openssl/opensslconf-32.h :
+ prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6/bin/../lib/gcc/x86_64-linux/4.6/include/stddef.h :
+ external/openssl/include/openssl/modes.h :

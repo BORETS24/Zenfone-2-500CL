@@ -1,0 +1,5 @@
+out/target/product/generic_x86/obj/STATIC_LIBRARIES/libc_bionic_intermediates/arch-x86/atom/string/sse2-strrchr-atom.o: \
+ bionic/libc/arch-x86/atom/string/sse2-strrchr-atom.S \
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h
+ bionic/libc/arch-x86/atom/string/sse2-strrchr-atom.S :
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :

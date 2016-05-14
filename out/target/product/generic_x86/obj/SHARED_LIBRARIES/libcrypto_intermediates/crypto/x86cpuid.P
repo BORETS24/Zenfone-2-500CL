@@ -1,0 +1,5 @@
+out/target/product/generic_x86/obj/SHARED_LIBRARIES/libcrypto_intermediates/crypto/x86cpuid.o: \
+  external/openssl/crypto/x86cpuid.S \
+  build/core/combo/include/arch/target_linux-x86/AndroidConfig.h
+  external/openssl/crypto/x86cpuid.S :
+  build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :

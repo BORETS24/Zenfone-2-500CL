@@ -1,0 +1,8 @@
+For build kernel:
+
+make -j4 -f KernelMakefile TARGET_DEVICE=redhookbay modules_install
+
+For configuring kernel open terminal in out/target/product/redhookbay/linux/kernel and input
+
+make menuconfig
+

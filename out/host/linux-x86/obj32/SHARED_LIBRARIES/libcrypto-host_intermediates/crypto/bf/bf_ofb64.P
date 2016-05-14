@@ -1,0 +1,15 @@
+out/host/linux-x86/obj32/SHARED_LIBRARIES/libcrypto-host_intermediates/crypto/bf/bf_ofb64.o: \
+ external/openssl/crypto/bf/bf_ofb64.c \
+ build/core/combo/include/arch/linux-x86/AndroidConfig.h \
+ external/openssl/include/openssl/blowfish.h \
+ external/openssl/include/openssl/e_os2.h \
+ external/openssl/include/openssl/opensslconf.h \
+ external/openssl/include/openssl/opensslconf-32.h \
+ external/openssl/crypto/bf/bf_locl.h
+ external/openssl/crypto/bf/bf_ofb64.c :
+ build/core/combo/include/arch/linux-x86/AndroidConfig.h :
+ external/openssl/include/openssl/blowfish.h :
+ external/openssl/include/openssl/e_os2.h :
+ external/openssl/include/openssl/opensslconf.h :
+ external/openssl/include/openssl/opensslconf-32.h :
+ external/openssl/crypto/bf/bf_locl.h :

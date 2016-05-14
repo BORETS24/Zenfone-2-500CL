@@ -1,0 +1,5 @@
+out/target/product/generic_x86/obj/SHARED_LIBRARIES/libcrypto_intermediates/crypto/des/asm/des-586.o: \
+  external/openssl/crypto/des/asm/des-586.S \
+  build/core/combo/include/arch/target_linux-x86/AndroidConfig.h
+  external/openssl/crypto/des/asm/des-586.S :
+  build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :
