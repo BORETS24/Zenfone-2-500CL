@@ -1,3 +1,5 @@
+Clone this source to your local machine(if you download as zip, you broke simbolic links)
+
 For build kernel:
 
 make -j4 -f KernelMakefile TARGET_DEVICE=redhookbay modules_install
